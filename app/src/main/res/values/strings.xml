@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyToDoApplication</string>
+    <string name="title_activity_bottom_navigation">setup</string>
 </resources>
